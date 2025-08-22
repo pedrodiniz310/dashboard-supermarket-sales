@@ -49,4 +49,3 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
     streamlit run seu_arquivo.py
     ```
     O dashboard será aberto automaticamente no seu navegador.
-=======
