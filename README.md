@@ -28,10 +28,10 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone [https://github.com/pedrodiniz310/dashboard-supermarket-sales.git](https://github.com/pedrodiniz310/dashboard-supermarket-sales.git)
+    cd dashboard-supermarket-sales.git
     ```
-
+    
 2.  **Crie e Ative um Ambiente Virtual (Recomendado):**
     ```bash
     python -m venv venv
@@ -48,6 +48,7 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
 
 4.  **Execute o Dashboard:**
     ```bash
-    streamlit run seu_arquivo.py
+    streamlit run dashboard.py
     ```
     O dashboard será aberto automaticamente no seu navegador.
+Link dataset público: https://www.kaggle.com/code/fareedalianwar/supermarket-sales
