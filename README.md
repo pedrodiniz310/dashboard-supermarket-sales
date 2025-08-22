@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+
+Link do app na web-> https://dashboard-supermarket-sales-hxxy9zf3fc5t5gruw68rb8.streamlit.app/
 # 📈 Dashboard de Análise de Vendas de Supermercado
 
 ## Sobre o Projeto
