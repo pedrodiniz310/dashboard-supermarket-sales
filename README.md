@@ -50,6 +50,3 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
     ```
     O dashboard será aberto automaticamente no seu navegador.
 =======
-# dashboard-supermarket-sales
-A Streamlit dashboard for supermarket sales data analysis. It provides key insights on revenue, customer behavior, and branch performance through interactive charts and KPIs.
->>>>>>> 00b1ff2914ed660aea2448563c67437ef51455fb
